@@ -15,6 +15,10 @@ localhost
 *.msn.com
 *assets.msn.cn
 *microsoftonline.com
+*.immersivetranslate.com
+*.msauth.net
+*.nelreports.net
+login.live.com
 ```
 
 #### google
