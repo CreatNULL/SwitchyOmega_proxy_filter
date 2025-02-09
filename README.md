@@ -174,6 +174,7 @@ cloudflare-dns.com
 *.clarity.ms
 *.baidustatic.com
 *.rubiconproject.com
+s.union.360.cn
 *.s.union.360.cn
 ```
 
