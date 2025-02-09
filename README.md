@@ -185,6 +185,7 @@ wap.miit.gov.cn
 #### 浏览器插件
 ```
 *.ctool.dev
+*.baiy.org
 *.hackerai.co
 *.vulners.com
 *immersivetranslate.com
