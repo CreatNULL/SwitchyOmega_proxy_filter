@@ -21,6 +21,7 @@ localhost
 login.live.com
 akamaized.net
 *.akamaized.net
+*.msftconnecttest.com
 ```
 
 #### google
@@ -173,6 +174,7 @@ cloudflare-dns.com
 *.clarity.ms
 *.baidustatic.com
 *.rubiconproject.com
+*.s.union.360.cn
 ```
 
 #### 政府网站
