@@ -116,6 +116,10 @@ pub.idqqimg.com
 *.inews.gtimg.com
 *.captcha.qcloud.com
 ```
+#### 字节跳动
+```
+*.pstatp.com
+```
 
 #### 2345
 ```
@@ -179,6 +183,7 @@ wap.miit.gov.cn
 ```
 
 #### 浏览器插件
+```
 *.ctool.dev
 *.hackerai.co
 *.vulners.com
