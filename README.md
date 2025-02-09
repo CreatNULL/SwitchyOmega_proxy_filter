@@ -6,15 +6,19 @@
 127.0.0.1
 [::1]
 localhost
+```
 
 #### bing
+```
 *.bing.com
 *.bing.net
 *.msn.com
 *assets.msn.cn
 *microsoftonline.com
+```
 
 #### google
+```
 googleapis.com
 *.googleapis.com
 google.com
@@ -31,9 +35,11 @@ googleusercontent.com
 *.googleusercontent.com
 chrome.com
 *.chrome.com
+```
 
 
 #### 网络空间搜索引擎
+```
 shodan.io
 *.shodan.io
 zoomeye.org
@@ -42,38 +48,54 @@ fofa.info
 *.fofa.info
 hunter.qianxin.com
 *.hunter.qianxin.com
+```
 
 #### 百度
+```
 baidu.com
 *.baidu.com
+```
 
 #### 知乎
+```
 zhihu.com
 *.zhihu.com
+```
 
 #### CSDN博客
+```
 csdn.net
 *.csdn.net
+```
 
 #### 稀土掘金
+```
 juejin.cn
 *.juejin.cn
+```
 
 #### 博客园
+```
 cnblogs.com
 *.cnblogs.com
+```
 
 #### GitHub
+```
 github.io
 *.github.io
 github.com
 *.github.com
+```
 
 #### GitLab
+```
 *.gitlab.com
 gitlab.com
+```
 
 #### 腾讯相关
+```
 qq.com
 *.qq.com
 pub.idqqimg.com
@@ -81,14 +103,15 @@ pub.idqqimg.com
 *.captcha.gtimg.com
 *.inews.gtimg.com
 *.captcha.qcloud.com
-
-#### 人民网
-people.com.cn
+```
 
 #### 2345
+```
 union2.50bang.org
+```
 
 #### SRC平台
+```
 butian.net
 *.butian.net
 src.360.net
@@ -107,26 +130,37 @@ bsrc.baidu.com
 *.bsrc.baidu.com
 vulbox.com
 *.vulbox.com
+```
 
 #### cloudflare
+```
 cloudflare-dns.com
 *.cloudflare-dns.com
+```
 
 #### 极客验证码
+```
 *geevisit.com
 *geetest.com
+```
 
 #### 广告推广等统计
+```
 *.cnzz.com
 *.g9hc4.cn
 *.doubleclick.net
 *.casalemedia.com
+```
 
 #### 政府网站
+```
 wap.miit.gov.cn
+```
 
 #### AI
+```
 *.deepseek.com
+```
 
 #### 浏览器插件
 *.ctool.dev
