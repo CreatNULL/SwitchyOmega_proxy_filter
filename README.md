@@ -70,6 +70,8 @@ zhihu.com
 ```
 csdn.net
 *.csdn.net
+csdnimg.cn
+*.csdnimg.cn
 ```
 
 #### 稀土掘金
@@ -96,6 +98,12 @@ github.com
 ```
 *.gitlab.com
 gitlab.com
+```
+
+#### gitcode
+```
+gitcode.com
+*.gitcode.com
 ```
 
 #### 腾讯相关
@@ -140,6 +148,7 @@ vulbox.com
 ```
 cloudflare-dns.com
 *.cloudflare-dns.com
+*.challenges.cloudflare.com
 ```
 
 #### 极客验证码
@@ -154,6 +163,9 @@ cloudflare-dns.com
 *.g9hc4.cn
 *.doubleclick.net
 *.casalemedia.com
+*.clarity.ms
+*.baidustatic.com
+*.rubiconproject.com
 ```
 
 #### 政府网站
