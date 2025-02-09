@@ -189,3 +189,9 @@ wap.miit.gov.cn
 *.vulners.com
 *immersivetranslate.com
 ```
+
+#### 其它工具网站
+```
+icpapi.com
+*.icpapi.com
+```
