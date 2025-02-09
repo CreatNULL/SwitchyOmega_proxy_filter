@@ -19,6 +19,8 @@ localhost
 *.msauth.net
 *.nelreports.net
 login.live.com
+akamaized.net
+*.akamaized.net
 ```
 
 #### google
@@ -153,6 +155,7 @@ vulbox.com
 cloudflare-dns.com
 *.cloudflare-dns.com
 *.challenges.cloudflare.com
+*.nel.cloudflare.com
 ```
 
 #### 极客验证码
