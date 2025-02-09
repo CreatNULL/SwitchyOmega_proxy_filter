@@ -1,0 +1,2 @@
+# SwitchyOmega_proxy_filter
+利用SwitchyOmega的规则，抓包的时候过滤掉一些用不到的域名
