@@ -188,7 +188,13 @@ wap.miit.gov.cn
 
 #### AI
 ```
+deepseek.com
 *.deepseek.com
+chatgpt.com
+*.chatgpt.com
+kimi.moonshot.cn
+doubao.com
+*.doubao.com
 ```
 
 #### 浏览器插件
