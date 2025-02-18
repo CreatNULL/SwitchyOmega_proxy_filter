@@ -8,7 +8,7 @@
 localhost
 ```
 
-#### bing
+#### 微软
 ```
 *.bing.com
 *.bing.net
@@ -64,8 +64,6 @@ hunter.qianxin.com
 ```
 baidu.com
 *.baidu.com
-graph.baidu.com
-miao.baidu.com
 ```
 
 #### 知乎
