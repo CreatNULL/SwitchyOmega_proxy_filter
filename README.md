@@ -179,6 +179,12 @@ cloudflare-dns.com
 s.union.360.cn
 *.s.union.360.cn
 *.intercom.io
+popin.cc
+*.popin.cc
+omnitagjs.com
+*.omnitagjs.com
+adnxs.com
+*.adnxs.com
 ```
 
 #### 政府网站
@@ -210,4 +216,9 @@ doubao.com
 ```
 icpapi.com
 *.icpapi.com
+```
+
+#### URL检查器是一个智能的诈骗检测器
+```
+trace.mediago.io
 ```
