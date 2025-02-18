@@ -40,6 +40,8 @@ google-analytics.com
 *.google-analytics.com
 googleusercontent.com
 *.googleusercontent.com
+googletagservices.com
+*.googletagservices.com
 chrome.com
 *.chrome.com
 ```
@@ -176,6 +178,7 @@ cloudflare-dns.com
 *.rubiconproject.com
 s.union.360.cn
 *.s.union.360.cn
+*.intercom.io
 ```
 
 #### 政府网站
