@@ -188,7 +188,9 @@ omnitagjs.com
 adnxs.com
 *.adnxs.com
 criteo.com
-*.criteo.com 
+*.criteo.com
+simpli.fi
+*.simpli.fi
 ```
 
 #### 政府网站
