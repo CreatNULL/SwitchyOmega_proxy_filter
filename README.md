@@ -13,6 +13,7 @@ localhost
 *.bing.com
 *.bing.net
 *.msn.com
+*.msn.cn
 *assets.msn.cn
 *microsoftonline.com
 *.immersivetranslate.com
@@ -22,7 +23,6 @@ login.live.com
 akamaized.net
 *.akamaized.net
 *.msftconnecttest.com
-*.events.data.msn.cn
 ```
 
 #### google
@@ -64,6 +64,8 @@ hunter.qianxin.com
 ```
 baidu.com
 *.baidu.com
+graph.baidu.com
+miao.baidu.com
 ```
 
 #### 知乎
@@ -194,12 +196,18 @@ criteo.com
 *.criteo.com
 simpli.fi
 *.simpli.fi
+*.kqzyfj.com
+*.dpbolvw.net
+*.anrdoezrs.net
 hm.baidu.com
+miao.baidu.com
 ```
 
 #### 政府网站
 ```
 wap.miit.gov.cn
+beian.gov.cn
+*.beian.gov.cn
 ```
 
 #### AI
@@ -220,6 +228,7 @@ doubao.com
 *.hackerai.co
 *.vulners.com
 *immersivetranslate.com
+*.whatsapp.com
 ```
 
 #### 其它工具网站
