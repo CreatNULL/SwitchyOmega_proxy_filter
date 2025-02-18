@@ -22,6 +22,7 @@ login.live.com
 akamaized.net
 *.akamaized.net
 *.msftconnecttest.com
+*.events.data.msn.cn
 ```
 
 #### google
@@ -193,6 +194,7 @@ criteo.com
 *.criteo.com
 simpli.fi
 *.simpli.fi
+hm.baidu.com
 ```
 
 #### 政府网站
