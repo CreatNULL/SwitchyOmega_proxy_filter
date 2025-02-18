@@ -157,7 +157,9 @@ vulbox.com
 ```
 cloudflare-dns.com
 *.cloudflare-dns.com
+challenges.cloudflare.com
 *.challenges.cloudflare.com
+nel.cloudflare.com
 *.nel.cloudflare.com
 ```
 
@@ -185,6 +187,8 @@ omnitagjs.com
 *.omnitagjs.com
 adnxs.com
 *.adnxs.com
+criteo.com
+*.criteo.com 
 ```
 
 #### 政府网站
