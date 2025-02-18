@@ -97,6 +97,8 @@ github.io
 *.github.io
 github.com
 *.github.com
+githubassets.com
+*.githubassets.com
 ```
 
 #### GitLab
